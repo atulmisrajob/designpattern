@@ -1,0 +1,5 @@
+package atul.designpattern.chapter2;
+
+public interface DisplayElement {
+    public void display();
+}
